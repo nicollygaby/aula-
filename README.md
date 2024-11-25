@@ -1,1 +1,2 @@
-# aula-
+### aula ?
+' leia o dumento: curriculo. '
